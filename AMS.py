@@ -11,8 +11,7 @@ import time
 import platform
 import subprocess
 
-BASE_PATH = "/Users/anilkumarinjam/Music/Attendace_management_system"
-
+BASE_PATH = "/Users/sandeepkumarputti"
 
 def create_gradient(canvas, width, height):
     # Adjust the transition point to give more space to violet
